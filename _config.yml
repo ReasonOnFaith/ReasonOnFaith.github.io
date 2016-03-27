@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://ReasonOnFaith.github.io
+title: Reason On Faith: The Microblog
+tagline: commenting on faith and religion through the eyes of reason
+description: This site is where I post content too long for Twitter and too off the cuff for my blog, [ReasonOnFaith.org].<br /><br />You probably arrived here from a Twitter.com conversation, where I wanted to say more than 140 characters to get some nuance across.
+paginate: 5
