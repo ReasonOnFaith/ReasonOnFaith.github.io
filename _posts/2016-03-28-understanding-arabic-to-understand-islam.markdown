@@ -16,7 +16,7 @@ Well, let's say you're a born Muslim or a prospective convert to Islam. None of 
 
 However, when you've done your research and believe that Islamic theology just doesn't add up, you're told that since you don't know Arabic, you couldn't possibly critique the Qur'anic nuance and message, let alone weigh in on its broader commandments.
 
-And if you happen to actually [know](https://www.academia.edu/21461211/_My_Ordeal_with_the_Quran_and_God_in_the_Quran._By_Abbas_Abdul_Noor) Arabic, even to the point of having studied the classical Arabic of the Qur'an and devoted a large amount of study to it such that you happen to believe that Islam just doesn't add up, you're _still_ deemed by the Muslim establishment as wrong.
+And if you happen to actually [know](https://www.academia.edu/21461211/_My_Ordeal_with_the_Quran_and_God_in_the_Quran._By_Abbas_Abdul_Noor) Arabic, even to the point of having studied the classical Arabic of the Qur'an such that you happen to believe that Islam just doesn't add up, you're _still_ deemed by the Muslim establishment as wrong.
 
 Reminds me of the aphorism, "_Heads: I win; tails: you lose"_.
 
