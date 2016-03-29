@@ -31,7 +31,7 @@ Further, most Ahmadi Muslims speak Urdu, not Arabic. So a tiny fraction are read
 
 Ahmadi Muslims consider the Qur'an too holy, too dense in meaning to read the words simply. And so they defer to commentary and other such books that the Community publishes, purporting to explain the "real" or "deeper" meaning.
 
-You could create a religion out of just Deuteronomy and Leviticus, layer in reams of similar interpretive gymnastics topped off with a strong sense of control you get with a very organized religion, and you'd have a peaceful community. I don't doubt it. 
+You could create a religion out of just Deuteronomy and Leviticus, layer in reams of similar interpretive gymnastics, and then top it all off with the strong control you get from a very organized religious hierarchy. The result? You'd have a peace-loving community mistakenly attributing their good nature to the thousand-plus year-old scriptures. 
 
 If you perform double, triple and quadruple flips in your exegesis to work around problematic verses, anything is possible.
 
