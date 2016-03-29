@@ -37,4 +37,6 @@ If you perform double, triple and quadruple flips in your exegesis to work aroun
 
 That doesn't exonerate the Qur'an. 
 
-It's a testament to your ability to have people downplay the literal words that they read and take your explanations for what those words mean.
+It's a testament to your ability to have people downplay the literal words that they read and take your explanations instead, for what those words mean.
+
+Oh, and if you ever do get that dialog going with Sam Harris, be sure to include an ex-Ahmadi Muslim into the mix. 
