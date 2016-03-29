@@ -7,15 +7,17 @@ The Muslim Reform Movement (MRM) [Declaration](https://www.change.org/p/muslims-
 
 ### The Muslim Reform Movement
 
-This is a diverse group, and none are beholden to an Ayatollah or other centralized, inviolate figure. This provides a level of freedom in truly critical thought. As a former Ahmadi Muslim myself, this is the level of fresh thinking I yearned for, for decades, but never found within the constraints of Ahmadiyyat.
+This is a diverse group, and none are beholden to an Ayatollah or other centralized, inviolate Caliphate figure. This provides a level of freedom for truly critical thought. As a former Ahmadi Muslim myself, this is the level of fresh thinking I yearned for, for decades, but never found within the constraints of Ahmadiyyat.
 
-True, I have trouble seeing how one can get from a lot of the Islamic scriptures to the beautiful Muslim Reform Movement [Declaration](https://www.change.org/p/muslims-and-neighbors-we-support-the-muslim-reform-movement).
+True, I have trouble seeing how one can get from much of Islamic scripture to the beautiful Muslim Reform Movement [Declaration](https://www.change.org/p/muslims-and-neighbors-we-support-the-muslim-reform-movement).
 
-But this crawling towards modernity, kicking and screaming is what has held the Muslim world back, in my opinion. And yet at the same time, meet with Muslims privately and off the record, the points in the MRM declaration are exactly what they _want_ to support.
+But a crawling towards modernity, kicking and screaming is what has held the Muslim world back. And yet at the same time, when you meet with western raised Muslims privately and off the record, the points in the MRM declaration are exactly what they actually _want_ to support.
 
-Instead of bickering for the next 100 years on how to do interpretive gymnastics just right to get to the MRM declaration, the Muslim Reform Movement lays down the gauntlet and states with confidence: _these are the principles we feel are non-negotiable for human rights and dignity_. 
+Instead of bickering for the next 100 years on how to do interpretive gymnastics just right to arrive at the MRM declaration, the Muslim Reform Movement lays down the gauntlet and states with confidence: _these are the principles we feel are non-negotiable for human rights and dignity_. 
 
-It's brilliant. Let's teleport to the values that our hearts and minds _know_ to be true, and leave those interested in the theological work to get there, the task of pontificating on it. Conversely, if you take the precept that the Prophet of Islam was teaching Muslims to be intelligent and independent thinkers of their time, then there's almost no theological hurdles to jump through.
+It's brilliant. The approach is to simply teleport to the values that our hearts and minds _know_ to be true, and leave those interested in the theological work to get there, the task of working out the backstory. Conversely, if you take the precept that the Prophet of Islam was teaching Muslims to be intelligent and independent thinkers of their time, then there's almost no theological hurdles to jump through. You can confidently side step literal Qur'anic injunctions as limited for a time and place. 
+
+How taboo to the Muslim establishment, and how liberating for humanity.
 
 ### The Ahmadi Muslim Campaign
 
