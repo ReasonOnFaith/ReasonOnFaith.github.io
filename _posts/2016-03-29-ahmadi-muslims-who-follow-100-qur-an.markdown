@@ -27,7 +27,7 @@ Just read the reams of apologetic commentary trying to wriggle out of the clause
 
 Such an important concept that is not "clear" until you layer on reams of interpretive gymnastics.
 
-Further, most Ahmadi Muslims speak Urdu, not Arabic. So a tiny fraction are reading the Qur'an in Arabic and actually understanding its meaning. That vast majority read a translation that has been carefully worded by the Ahmadi Muslim Community (which has overseen translations into numerous languages).
+Further, most Ahmadi Muslims speak Urdu, not Arabic. So a tiny fraction are reading the Qur'an in Arabic and actually understanding its meaning. The vast majority read a translation that has been carefully worded by the Ahmadi Muslim Community (which has overseen translations into numerous languages).
 
 Ahmadi Muslims consider the Qur'an too holy, too dense in meaning to read the words simply. And so they defer to commentary and other such books that the Community publishes, purporting to explain the "real" or "deeper" meaning.
 
