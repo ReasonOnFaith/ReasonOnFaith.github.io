@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: The MRM and the True Islam Campaigns
 layout: post
 ---
@@ -41,5 +41,10 @@ As each day progresses, information spreads, and people use their critical facul
 
 This is where in my humble opinion, the Muslim Reform Movement represents _real_ reform. I've [pointed out](https://twitter.com/ReasonOnFaith/status/713894927890059264) before how the MRM declaration touches on topics that Ahmadis repeatedly avoid. But we've noticed.
 
-### Islamism, Islamic States and Caliphates
+### Islamism and the Public Relations Taboo
 
+I believe that Ahmadi Muslims wish to view themselves as the _defenders of Islam_. But to that PR goal, these well intentioned people don't realize that they are muddying the waters. The "-ism" on "Islam" is an accepted word in our vernacular that refers to political Islam; to a theocracy. Ahmadis claim to believe in separation of mosque and state. So why shy away from this term? Well, because it has the word "Islam" in it.
+
+Similarly, Ahmadis will do the PR tour on the news media claiming how "Islam" doesn't support such-and-such primitive beliefs, as if to reassure the American people that Muslims have peaceful beliefs. They neglect to clarify that these beliefs are from their own denomination, which represents just 1% of the Muslim world. On that basis, the Ahmadi Muslim PR campaign just gave their non-Muslim fellow citizens a false sense of security.
+
+This is placing PR wins for converts above plain speech that presents an honest picture of the situation on the ground.
