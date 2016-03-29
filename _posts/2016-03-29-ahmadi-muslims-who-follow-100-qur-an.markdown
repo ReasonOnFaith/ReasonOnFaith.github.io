@@ -29,7 +29,7 @@ Such an important concept that is not "clear" until you layer on reams of interp
 
 Further, most Ahmadi Muslims speak Urdu, not Arabic. So a tiny fraction are reading the Qur'an in Arabic and actually understanding its meaning. That vast majority read a translation that has been carefully worded by the Ahmadi Muslim Community (which has overseen translations into numerous languages).
 
-They consider the Qur'an too holy, too dense in meaning to read the words simply. And so they defer to commentary and other such books that the Community publishes, purporting to explain the "real" or "deeper" meaning.
+Ahmadi Muslims consider the Qur'an too holy, too dense in meaning to read the words simply. And so they defer to commentary and other such books that the Community publishes, purporting to explain the "real" or "deeper" meaning.
 
 You could create a religion out of Deuteronomy and Leviticus, layer in reams of similar interpretive gymnastics topped off with a strong sense of control you get with a very organized religion, and you'd have a peaceful community. I don't doubt it. 
 
@@ -39,4 +39,4 @@ That doesn't exonerate the Qur'an.
 
 It's a testament to your ability to have people downplay the literal words that they read and take your explanations instead, for what those words mean.
 
-Oh, and if you ever do get that dialog going with Sam Harris, be sure to include an ex-Ahmadi Muslim into the mix. 
+Oh, and if you ever do get that dialog going with Sam Harris, be sure to include an ex-Ahmadi Muslim into the mix.
