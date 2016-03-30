@@ -51,7 +51,7 @@ Ahmadis avoid making statements about equal inheritance or equal witness because
 
 As each day progresses, as information spreads, and as people use critical judgment, these omissions will no longer be ignored.
 
-This is where in my humble opinion, the Muslim Reform Movement represents _real_ reform. I've [pointed out](https://twitter.com/ReasonOnFaith/status/713894927890059264) before how the MRM declaration touches on topics that Ahmadis repeatedly avoid. 
+This is where in my humble opinion, the Muslim Reform Movement represents _real_ reform. I've pointed out [before](https://twitter.com/ReasonOnFaith/status/713894927890059264) how the MRM declaration touches on topics that Ahmadis repeatedly avoid. 
 
 We've all noticed.
 
