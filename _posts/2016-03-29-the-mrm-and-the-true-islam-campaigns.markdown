@@ -59,7 +59,9 @@ The Ahmadiyya spokesmen _must_ think about these issues and think about ways to 
 
 ### Islamism and the Public Relations Taboo
 
-I believe that Ahmadi Muslims wish to view themselves as the _defenders of Islam_. But to that end, these well intentioned people don't realize that they are muddying the waters. The "-ism" on "Islam" is an accepted word in our vernacular that refers to political Islam; to a theocracy. Ahmadis claim to believe in separation of mosque and state. So why shy away from this term? Well, because it has the word "Islam" in it.
+I believe that Ahmadi Muslims wish to view themselves as the _defenders of Islam_. But to that end, these well intentioned people don't realize that they are muddying the waters. The "-ism" on "Islam" to form the word "Islamism" is accepted in our vernacular to refer to political Islam; to a theocracy based on Islam. 
+
+Ahmadis claim to believe in separation of mosque and state. So why shy away from this term? Well, because it has the word "Islam" in it.
 
 Similarly, Ahmadis will do the PR tour on the news media claiming how "Islam" doesn't support such-and-such primitive beliefs, as if to reassure the American people that Muslims have peaceful beliefs. They neglect to clarify that these beliefs are from their own denomination, which represents just 1% of the Muslim world. On that basis, the Ahmadi Muslim PR campaign just gave their non-Muslim fellow citizens a false sense of security.
 
