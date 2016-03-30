@@ -31,7 +31,7 @@ What would have been better in my opinion, is a slogan such as "A Modern Islam" 
 
 As a civilization, we know how to calculate π, we know what year the American constitution was signed and we know where the gaps are in connecting Relativity with Quantum Mechanics. However, there are tens of thousands of hadith that can steer "Islam" in numerous directions, depending on the ones you keep and the ones you discard. There are numerous schools of philosophy and claiming to know how to slice through history and pick out the "true" and "original" teaching is to make truly bold claims.
 
-I personally feel that a lot of the beliefs of the Ahmadiyya Muslim doctrine require a revisionist view of history. Even other Muslims who would do well to adopt Ahmadi Muslim conclusions, disagree. Many for example, hold on to a rejection of evolution.
+I personally feel that a lot of the beliefs of the Ahmadiyya Muslim doctrine require a revisionist view of history. 
 
 We're not going to get impartial historians to provide a consensus on whether Ahmadiyya Muslim beliefs represent the "true" Islam. And that's effectively what the TrueIslam.com campaign is claiming. 
 
