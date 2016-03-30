@@ -23,7 +23,7 @@ How taboo to the Muslim establishment, and how liberating for humanity.
 
 Ahmadi Muslims have a wonderful track record of promoting peace. I've touched on that in brief, [here](https://reasononfaith.github.io/2016/03/29/defending-islam-from-the-twitter-trolls-in-denial.html).
 
-I am myself, a former Ahmadi Muslim myself, who is now an ex-Muslim and Agnostic Deist. 
+I am myself, a former Ahmadi Muslim who is now an Agnostic Deist. I also use the term ex-Muslim to help normalize dissent and make it easier for others to also leave the faith.
 
 I have always felt the slogans of "True" Islam that I saw and heard repeated at many Annual Conventions of the Ahmadi Muslim Community, to be a tad presumptuous. It's the word "true" that conjures up a little bit of takfir and arrogance.
 
