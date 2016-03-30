@@ -41,7 +41,7 @@ Getting other Muslims to _endorse_ the eleven points on the TrueIslam.com websit
 
 Ahmadiyya Muslim doctrine is keen to hold on to every verse of the Qur'an and believe in no abrogation; to believe in the complete timelessness of the Islamic scriptures and message. 
 
-As such, Ahmadi Muslims could never and would never make a statement accepting LGBT persons. They avoid the issue in their literature just as they avoid these topics in their TrueIslam campaign.
+As such, Ahmadi Muslims could never and would never make a statement accepting the rights of LGBT persons to love whom they wish. Ahmadi Muslims avoid the issue in their literature just as they avoid these topics in their TrueIslam.com campaign.
 
 Remember that chapter in Mirza Ghulam Ahmad's writings about safeguarding the rights to happiness, love, and family for gays? Yeah, neither do I.
 
