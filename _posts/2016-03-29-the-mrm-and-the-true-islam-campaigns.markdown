@@ -45,7 +45,7 @@ As such, Ahmadi Muslims could never and would never make a statement accepting t
 
 Remember that chapter in Mirza Ghulam Ahmad's writings about safeguarding the rights to happiness, love, and family for gays? Yeah, neither do I.
 
-Not fair you say? Why not? Wasn't he a prophet? Wasn't he meant to _lead?_. Then what about the current Khalifa of the Ahmadis? Perhaps you can point me to the sermon where such tolerant acceptance of gender is espoused.
+Not fair you say? Why not? Wasn't he a prophet? Wasn't he meant to _lead?_ Then what about the current Khalifa of the Ahmadis? Perhaps you can point me to the sermon where such tolerant acceptance of gender is espoused.
 
 Ahmadis avoid making statements about equal inheritance or equal witness because their hands are tied. They start with the conclusion that these things were not granted by Allah in the Qur'an (or hadith), and so work backwards from there.
 
