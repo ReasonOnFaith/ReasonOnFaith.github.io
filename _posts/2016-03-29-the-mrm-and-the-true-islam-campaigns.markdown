@@ -49,7 +49,7 @@ Not fair you say? Why not? Wasn't he a prophet? Wasn't he meant to _lead?_. Then
 
 Ahmadis avoid making statements about equal inheritance or equal witness because their hands are tied. They start with the conclusion that these things were not granted by Allah in the Qur'an (or hadith), and so work backwards from there.
 
-As each day progresses, as information spreads, and as people use their critical faculties, these omissions can no longer be ignored.
+As each day progresses, as information spreads, and as people use critical judgment, these omissions will no longer be ignored.
 
 This is where in my humble opinion, the Muslim Reform Movement represents _real_ reform. I've [pointed out](https://twitter.com/ReasonOnFaith/status/713894927890059264) before how the MRM declaration touches on topics that Ahmadis repeatedly avoid. 
 
