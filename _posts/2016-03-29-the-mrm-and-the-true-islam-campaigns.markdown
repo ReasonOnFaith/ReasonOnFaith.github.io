@@ -27,7 +27,7 @@ I am myself, a former Ahmadi Muslim who is now an Agnostic Deist. I also use the
 
 I have always felt the slogans of "True" Islam that I saw and heard repeated at many Annual Conventions of the Ahmadi Muslim Community, to be a tad presumptuous. It's the word "true" that conjures up a little bit of takfir and arrogance.
 
-What would have been better in my opinion, is a slogan such as "A Modern Islam" or a "Peaceful Islam". Now even with those, I think the Muslim Reform Movement would be more deserving of such a title, based on the contents of their more encompassing declaration, but you get my drift.
+What would have been better in my opinion, is a slogan such as "A Modern Islam" or a "Peaceful Islam". Now even with those, I think the Muslim Reform Movement would be more deserving of such a title, based on the contents of their more encompassing declaration. But you get my drift.
 
 As a civilization, we know how to calculate π, we know what year the American constitution was signed and we know where the gaps are in connecting Relativity with Quantum Mechanics. However, there are tens of thousands of hadith that can steer "Islam" in numerous directions, depending on the ones you keep and the ones you discard. There are numerous schools of philosophy and claiming to know how to slice through history and pick out the "true" and "original" teaching is to make truly bold claims.
 
