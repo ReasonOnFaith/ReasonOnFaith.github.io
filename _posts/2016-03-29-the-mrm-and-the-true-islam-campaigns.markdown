@@ -55,7 +55,7 @@ This is where in my humble opinion, the Muslim Reform Movement represents _real_
 
 We've all noticed.
 
-The Ahmadiyya spokesmen _must_ think about these issues and think about ways to cleverly avoid and change the topic. That's rough and I don't envy them.
+The Ahmadiyya spokesmen _must_ think about these issues and think about ways to cleverly avoid such topics whenever they go on air. That's rough. These are good people who mean well. I don't envy them.
 
 ### Islamism and the Public Relations Taboo
 
