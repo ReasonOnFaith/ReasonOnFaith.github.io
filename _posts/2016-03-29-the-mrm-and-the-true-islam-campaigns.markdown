@@ -67,4 +67,8 @@ Similarly, Ahmadis will do the PR tour on the news media claiming how "Islam" do
 
 They neglect to clarify however, that these beliefs are from their _own_ denomination, which represents just 1% of the Muslim population. On that basis, the Ahmadi Muslim PR campaign provides their fellow citizens a [false sense](https://reasononfaith.github.io/2016/03/29/defending-islam-from-the-twitter-trolls-in-denial.html) of security.
 
-It doesn't sit well with me, that Ahmadi Muslims place PR wins for converts above plain speech. The greatest integrity they could display would be to present an honest picture of the situation on the ground, even if that cost them the potential for new converts from the dis-enfranchised mainstream Muslim population of the West.
+It doesn't sit well with me, that Ahmadi Muslims place PR wins for converts above plain speech. The greatest integrity they could display would be to present an honest picture of the situation on the ground, even if that cost them the potential for new converts from the disenfranchised mainstream Muslim population of the West.
+
+The Ahmadi Muslims I know, including the spokes people, are decent human beings who truly want to make the world a better place. 
+
+Sometimes however, good intentions can be blinded by unwavering devotion to a holy cause, where the ends is seen to justify the means.
