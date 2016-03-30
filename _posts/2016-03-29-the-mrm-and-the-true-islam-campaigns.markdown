@@ -35,7 +35,9 @@ I personally feel that a lot of the beliefs of the Ahmadiyya Muslim doctrine req
 
 We're not going to get impartial historians to provide a consensus on whether Ahmadiyya Muslim beliefs represent the "true" Islam. And that's effectively what the TrueIslam.com campaign is claiming. 
 
-The campaign omits the words "Ahmadiyya" from prominence, and there is a noble motive here. It is to try to get other Muslim groups to also adopt these principles as their own, and make the world a safer place. As a side effect, there are openings for converting other Muslims who surprise surprise, see all of these eleven points perfectly met by the Ahmadiyya Muslim Community.
+The campaign omits the words "Ahmadiyya" from prominence, and there is a noble motive here. It is to try to get other Muslim groups to also adopt these principles as their own, and make the world a safer place. 
+
+Getting other Muslims to _endorse_ the eleven points on the TrueIslam.com website has a positive side effect for the Ahmadis; it reduces the mental friction for others to adopt (convert into) Ahmadiyya Islam. Not that I would disagree if your former beliefs were of the Salafi variety.
 
 Ahmadiyya Muslim doctrine is keen to hold on to every verse of the Qur'an and believe in no abrogation; to believe in the complete timelessness of the Islamic scriptures and message. 
 
