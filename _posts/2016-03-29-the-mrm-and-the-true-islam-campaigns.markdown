@@ -23,29 +23,41 @@ How taboo to the Muslim establishment, and how liberating for humanity.
 
 Ahmadi Muslims have a wonderful track record of promoting peace. I've touched on that in brief, [here](https://reasononfaith.github.io/2016/03/29/defending-islam-from-the-twitter-trolls-in-denial.html).
 
-As a former Ahmadi Muslim myself (now an ex-Muslim with no religion), I've always felt the slogans of "True" Islam at every annual convention I would go to, and in the new TrueIslam.com campaign, a tad presumptuous. It's the word "true" that's conjures up a little bit of takfir. 
+I am myself, a former Ahmadi Muslim myself, who is now an ex-Muslim and Agnostic Deist. 
 
-What would have been better, is a slogan such as "A Modern Islam" or a "Peaceful Islam". Now even with those, I think the Muslim Reform Movement would be more deserving of such a title, based on the contents, but you get my drift.
+I have always felt the slogans of "True" Islam that I saw and heard repeated at many Annual Conventions of the Ahmadi Muslim Community, to be a tad presumptuous. It's the word "true" that conjures up a little bit of takfir and arrogance.
 
-We now how to calculate π, we know what year the American constitution was signed. However, there are tens of thousands of hadith that can steer "Islam" in numerous directions, depending on the ones you keep and the ones you discard.
+What would have been better in my opinion, is a slogan such as "A Modern Islam" or a "Peaceful Islam". Now even with those, I think the Muslim Reform Movement would be more deserving of such a title, based on the contents of their more encompassing declaration, but you get my drift.
 
-I personally feel that a lot of the beliefs of Ahmadiyya Muslim doctrine require a revisionist view of history. Even other Muslims who would do well to adopt Ahmadi Muslim conclusions, feel the same about Islamic history.
+As a civilization, we know how to calculate π, we know what year the American constitution was signed and we know where the gaps are in connecting Relativity with Quantum Mechanics. However, there are tens of thousands of hadith that can steer "Islam" in numerous directions, depending on the ones you keep and the ones you discard. There are numerous schools of philosophy and claiming to know how to slice through history and pick out the "true" and "original" teaching is to make truly bold claims.
 
-We're not going to get impartial historians to agree, to a meaningful degree, to state that the Ahmadi Muslim beliefs represent the "true" Islam. And that's effectively what the TrueIslam.com campaign is claiming, without putting the words "Ahmadi" front in center.
+I personally feel that a lot of the beliefs of the Ahmadiyya Muslim doctrine require a revisionist view of history. Even other Muslims who would do well to adopt Ahmadi Muslim conclusions, disagree. Many for example, hold on to a rejection of evolution.
 
-No doubt, there's a noble motive here: to try to get other Muslim groups to adopt these principles as their own, and make the world a safer place.
+We're not going to get impartial historians to provide a consensus on whether Ahmadiyya Muslim beliefs represent the "true" Islam. And that's effectively what the TrueIslam.com campaign is claiming. 
 
-However, the Ahmadi Muslim doctrine is keen to hold on to every verse of the Qur'an and believe in no abrogation and the complete timelessness of the Islamic scripture (Qur'an) and message. As such, Ahmadi Muslims could never and would never make a statement accepting LGBT persons. They avoid the issue in their literature just as they avoid these points in their TrueIslam campaign.
+The campaign omits the words "Ahmadiyya" from prominence, and there is a noble motive here. It is to try to get other Muslim groups to also adopt these principles as their own, and make the world a safer place. As a side effect, there are openings for converting other Muslims who surprise surprise, see all of these eleven points perfectly met by the Ahmadiyya Muslim Community.
 
-Ahmadis avoid making statements about equal inheritance or equal witness because they're hands are tied. They start with the conclusion that these things were not granted by Allah in the Qur'an, and so work backwards from there.
+Ahmadiyya Muslim doctrine is keen to hold on to every verse of the Qur'an and believe in no abrogation; to believe in the complete timelessness of the Islamic scriptures and message. 
 
-As each day progresses, information spreads, and people use their critical faculties, these omissions can no longer be ignored.
+As such, Ahmadi Muslims could never and would never make a statement accepting LGBT persons. They avoid the issue in their literature just as they avoid these topics in their TrueIslam campaign.
 
-This is where in my humble opinion, the Muslim Reform Movement represents _real_ reform. I've [pointed out](https://twitter.com/ReasonOnFaith/status/713894927890059264) before how the MRM declaration touches on topics that Ahmadis repeatedly avoid. But we've noticed.
+Remember that chapter in Mirza Ghulam Ahmad's writings about safeguarding the rights to happiness, love, and family for gays? Yeah, neither do I.
+
+Not fair you say? Why not? Wasn't he a prophet? Wasn't he meant to _lead?_. Then what about the current Khalifa of the Ahmadis? Perhaps you can point me to the sermon where such tolerant acceptance of gender is espoused.
+
+Ahmadis avoid making statements about equal inheritance or equal witness because their hands are tied. They start with the conclusion that these things were not granted by Allah in the Qur'an (or hadith), and so work backwards from there.
+
+As each day progresses, as information spreads, and as people use their critical faculties, these omissions can no longer be ignored.
+
+This is where in my humble opinion, the Muslim Reform Movement represents _real_ reform. I've [pointed out](https://twitter.com/ReasonOnFaith/status/713894927890059264) before how the MRM declaration touches on topics that Ahmadis repeatedly avoid. 
+
+We've all noticed.
+
+The Ahmadiyya spokesman _must_ think about these issues and think about ways to cleverly avoid and change the topic. 
 
 ### Islamism and the Public Relations Taboo
 
-I believe that Ahmadi Muslims wish to view themselves as the _defenders of Islam_. But to that PR goal, these well intentioned people don't realize that they are muddying the waters. The "-ism" on "Islam" is an accepted word in our vernacular that refers to political Islam; to a theocracy. Ahmadis claim to believe in separation of mosque and state. So why shy away from this term? Well, because it has the word "Islam" in it.
+I believe that Ahmadi Muslims wish to view themselves as the _defenders of Islam_. But to that end, these well intentioned people don't realize that they are muddying the waters. The "-ism" on "Islam" is an accepted word in our vernacular that refers to political Islam; to a theocracy. Ahmadis claim to believe in separation of mosque and state. So why shy away from this term? Well, because it has the word "Islam" in it.
 
 Similarly, Ahmadis will do the PR tour on the news media claiming how "Islam" doesn't support such-and-such primitive beliefs, as if to reassure the American people that Muslims have peaceful beliefs. They neglect to clarify that these beliefs are from their own denomination, which represents just 1% of the Muslim world. On that basis, the Ahmadi Muslim PR campaign just gave their non-Muslim fellow citizens a false sense of security.
 
