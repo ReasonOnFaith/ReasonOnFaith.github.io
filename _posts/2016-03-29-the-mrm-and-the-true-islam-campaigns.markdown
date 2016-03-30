@@ -29,7 +29,7 @@ I have always felt the slogans of "True" Islam that I saw and heard repeated at 
 
 What would have been better in my opinion, is a slogan such as "A Modern Islam" or a "Peaceful Islam". Now even with those, I think the Muslim Reform Movement would be more deserving of such a title, based on the contents of their more encompassing declaration. But you get my drift.
 
-As a civilization, we know how to calculate π, we know what year the American constitution was signed and we know where the gaps are in connecting Relativity with Quantum Mechanics. However, there are tens of thousands of hadith that can steer "Islam" in numerous directions, depending on the ones you keep and the ones you discard. There are numerous schools of philosophy and claiming to know how to slice through history and pick out the "true" and "original" teaching is to make truly bold claims.
+As a civilization, we know how to calculate π, we know what year the American constitution was signed and we know where the gaps are in connecting Relativity with Quantum Mechanics. However, there are tens of thousands of hadith that can steer "Islam" in numerous directions, depending on the ones you keep and the ones you discard. There are numerous schools of philosophy. Claiming to know how to slice through history and pick out the "true" and "original" teaching is to make truly bold claims.
 
 I personally feel that a lot of the beliefs of the Ahmadiyya Muslim doctrine require a revisionist view of history. 
 
