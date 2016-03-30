@@ -65,6 +65,6 @@ Ahmadis claim to believe in separation of mosque and state. So why shy away from
 
 Similarly, Ahmadis will do the PR tour on the news media claiming how "Islam" doesn't support such-and-such primitive beliefs, as if to reassure the American people that Muslims have progressive beliefs. 
 
-They neglect to clarify however, that these beliefs are from their _own_ denomination, which represents just 1% of the Muslim world. On that basis, the Ahmadi Muslim PR campaign just gave their non-Muslim fellow citizens a false sense of security.
+They neglect to clarify however, that these beliefs are from their _own_ denomination, which represents just 1% of the Muslim population. On that basis, the Ahmadi Muslim PR campaign provides their fellow citizens a [false sense](https://reasononfaith.github.io/2016/03/29/defending-islam-from-the-twitter-trolls-in-denial.html) of security.
 
-This is placing PR wins for converts above plain speech that presents an honest picture of the situation on the ground.
+It doesn't sit well with me, that Ahmadi Muslims place PR wins for converts above plain speech. The greatest integrity they could display would be to present an honest picture of the situation on the ground, even if that cost them the potential for new converts from the dis-enfranchised mainstream Muslim population of the West.
