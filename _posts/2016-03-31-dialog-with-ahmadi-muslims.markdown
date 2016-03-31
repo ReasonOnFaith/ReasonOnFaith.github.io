@@ -39,7 +39,7 @@ I think many, many Ahmadi Muslims (and Muslims generally), can relate.
 
 My writings are not only for me. They are meant to give others out there a voice. In fact, you who seek to do the intervention on me, well, I'd like to do an intervention on you too. I want to challenge your assumptions. I want to open your mind and your heart. Regardless of whether either of us succeeds, I'll still shake your hand, give you a hug and part with a kind word.
 
-If I get into the weeds right now in discussions with Ahmadis, I am taking away time for the more pressing work I believe in. When I have my thoughts organized into words, we'll talk.
+If I get into the weeds right now in discussions with Ahmadis, I am delaying the more pressing work I believe in. When I have my thoughts organized into words, we'll talk.
 
 Yes, I've written some on this microblog in response to activity on Twitter. But it is nothing compared to the depth of analysis I intend to cover this year. When I've laid the foundations, I'll let you know.
 
