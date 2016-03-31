@@ -50,6 +50,6 @@ Oh, and if you haven't already, there are two things you should read first if yo
 
 This microblog is for short, not carefully crafted writing. My formal blog is where I will soon be expending effort to lay out more comprehensive positions and thoughts.
 
-Finally, if you are an Ahmadi Muslim especially, know that even though I left the Community, I respect you. You are a rare breed of Muslim that rejects terrorism, that accepts evolution, that believes good atheists still go to Heaven and who reject death-for-apostasy beliefs. And that's just a short subset of the many wonderfully progressive positions that you hold.
+Finally, if you are an Ahmadi Muslim especially, know that even though I left the Community, I respect you. You are a rare breed of Muslim that rejects terrorism, that accepts evolution, that believes good atheists still go to Heaven and who rejects death-for-apostasy beliefs. And that's just a short subset of the many wonderfully progressive positions that you hold.
 
 Most of all, you have a beautiful slogan, "Love for All, Hatred for None". We may disagree on important historical roots of theology, but as my fellow human being, know that I love and respect you.
