@@ -33,7 +33,7 @@ Repetitive conversations like that are soul-sucking. By me writing thoughts out 
 
 At family gatherings, I often have the elder uncles in their 60's and 70's talking about religion. I don't jump in because I know that they unfortunately, don't have the capacity to engage. Often times, it's a simple language barrier with English. They weren't raised in a culture of critical thought. They hear something critical of Islam and talk over the person speaking.
 
-At the same time, I'm uncomfortable pretending to be someone who although not religious, has nothing to say on these topics. 
+At the same time, I'm no longer comfortable pretending to be someone who although not religious, has nothing to say on these topics. Quite the contrary, I'm passionate about my positions and beliefs.
 
 I think many, many Ahmadi Muslims (and Muslims generally), can relate.
 
@@ -51,5 +51,3 @@ This microblog is for short, not carefully crafted writing. My formal blog is wh
 Finally, if you are an Ahmadi Muslim especially, know that even though I left the Community, I respect you. You are a rare breed of Muslim that rejects terrorism, that accepts evolution, that believes good atheists still go to Heaven and who reject death-for-apostasy beliefs. And that's just a short subset of the many wonderfully progressive positions that you hold.
 
 Most of all, you have a beautiful slogan, "Love for All, Hatred for None". We may disagree on important historical roots of theology, but as my fellow human being, know that I love and respect you.
-
-
