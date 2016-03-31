@@ -17,7 +17,7 @@ Instead of bickering for the next 100 years on how to do interpretive gymnastics
 
 It's brilliant. The approach is to simply teleport to the values that our hearts and minds _know_ to be true, and leave those interested in the theological work to get there, the task of working out the backstory. Conversely, if you take the precept that the Prophet of Islam was teaching Muslims to be intelligent and independent thinkers of their time, then there's almost no theological hurdles to jump through. You can confidently side step literal Qur'anic injunctions as limited for a time and place. 
 
-How taboo to the Muslim establishment, and how liberating for humanity.
+How taboo for the Muslim establishment, and how liberating for humanity.
 
 ### The Ahmadi Muslim Campaign
 
