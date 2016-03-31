@@ -37,7 +37,7 @@ At the same time, I'm no longer comfortable pretending to be someone who althoug
 
 I think many, many Ahmadi Muslims (and Muslims generally), can relate.
 
-My writings are not only for me, it is to give others out their a voice. In fact, you who seek to do the intervention, well, I'd like to do an intervention on you too. I want to challenge your assumptions and open your mind and your heart.
+My writings are not only for me, it is to give others out there a voice. In fact, you who seek to do the intervention, well, I'd like to do an intervention on you too. I want to challenge your assumptions and open your mind and your heart.
 
 If I get into the weeds right now in discussions with Ahmadis, I am taking away time for the more pressing work I believe in. When I have my thoughts organized into words, we'll talk.
 
