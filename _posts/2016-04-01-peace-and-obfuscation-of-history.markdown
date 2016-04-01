@@ -3,7 +3,9 @@ published: true
 title: Peace and Obfuscation of History
 layout: post
 ---
-In this [tweet](https://twitter.com/avneet_paul/status/715914253622976512), [Avneet Paul](https://twitter.com/avneet_paul) makes an important point with an article link covering many topics, of which one in particular, interest me. That topic is promoting peace (admirable and welcome) while insisting that the reams of historical material to the counter are not part of "true" Islam.
+In this [tweet](https://twitter.com/avneet_paul/status/715914253622976512), [Avneet Paul](https://twitter.com/avneet_paul) makes an important point with an article link covering many topics, of which one in particular, was of interest to me for this post. 
+
+That topic is promoting peace (admirable and welcome) while insisting that the reams of historical material to the counter are not part of "true" Islam.
 
 I agree. The dichotomy for Ahmadi Muslims re: peace is (1) action taken today vs. (2) their take on historical events.
 
