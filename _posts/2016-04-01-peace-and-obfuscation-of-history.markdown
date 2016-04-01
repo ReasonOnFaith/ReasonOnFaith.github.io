@@ -26,7 +26,7 @@ On issues of history however, I and many others feel that the Ahmadi viewpoint a
 
 This historical material is swiftly rejected by Ahmadis, because it doesn’t fit their peaceful narrative. 
 
-Their starting point is that Muhammad was a peaceful man, and anything that paints a different picture, must be tossed out as a fabrication, or given an embellished hypothetical context that we have no historical record of.
+Their starting point is that Muhammad was a peaceful man, and anything that paints a different picture, must be tossed out as a fabrication, or given an embellished hypothetical context, that is often suspect.
 
 The volume and presence of this material from history is still troubling. 
 
