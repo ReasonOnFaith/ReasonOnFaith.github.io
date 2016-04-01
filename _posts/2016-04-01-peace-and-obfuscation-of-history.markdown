@@ -3,7 +3,7 @@ published: true
 title: Peace and Obfuscation of History
 layout: post
 ---
-In this [tweet](https://twitter.com/avneet_paul/status/715914253622976512), [Avneet Paul](https://twitter.com/avneet_paul) makes an important point with an article link covering many topics, of which one in particular, was of interest to me for this post. 
+In this [tweet](https://twitter.com/avneet_paul/status/715914253622976512), [Avneet Paul](https://twitter.com/avneet_paul) makes an important point, citing an article by Robert Spencer covering many topics, of which one in particular, was of interest to me for this post. 
 
 That topic is the promotion of peace (obviously admirable and welcome) versus the Ahmadi's insistence that the reams of historical material to the counter, are not part of "true" Islam.
 
