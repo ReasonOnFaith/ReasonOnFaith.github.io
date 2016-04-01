@@ -38,7 +38,7 @@ The majority of Muslims do not toss out all of this material the way we and Ahma
 ### Reform vs. Renaissance 
 It should be noted that Ahmadi Muslims (as far as I have seen) do not refer to themselves as _reformers_ of Islam. Their take is that Islam is the perfect faith, but that it was prophesied in the Prophet's time that Islam would become a mess until the Mahdi and Messiah came to revive its true teachings.
 
-So, you will not get Ahmadis to challenge verses of the Qur'an. Instead, they will seek to normalize an interpretation that supports a superior ethical voice than the simpler reading espoused by many of their co-coreligionists. 
+So, you will not get Ahmadis to challenge verses of the Qur'an. Instead, they will seek to normalize an interpretation that supports a superior ethical voice than the simpler reading espoused by many of their coreligionists. 
 
 Ahmadi Muslims prefer to view their movement as the _renaissance_ of Islam. As such, they are in fact, more limited in the sort of _break-out_ thinking that many non-Muslims are looking for the Muslim world to produce. 
 
