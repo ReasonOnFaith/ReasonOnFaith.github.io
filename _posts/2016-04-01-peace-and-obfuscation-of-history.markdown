@@ -7,12 +7,12 @@ In this [tweet](https://twitter.com/avneet_paul/status/715914253622976512), [Avn
 
 I agree. The dichotomy for Ahmadi Muslims re: peace is (1) action taken today vs. (2) their take on historical events.
 
-### Issue 1 
+### Issue 1: Ahmadis and Peace Today
 I completely believe that Ahmadi Muslims would never tolerate violence or terrorism. Their rejection of this is proven (long history of non-violence, clear teachings in their own interpretations of the faith, open door policy at mosques, no fatwas for death, etc.). 
 
 Being a former Ahmadi Muslim, I can state this with confidence. This is why I support Ahmadi positions so strongly _on this particular slice of this particular topic_.
 
-### Issue 2
+### Issue 2: Ahmadis and a Selective Reading of History
 On issues of history, this is where what I and many feel are revisionism, *is a dangerous obfuscation* of the mere presence of mountains of troubling material (popular and early biographies of the Prophet, _sahih_ hadith, etc.). 
 
 This material is swiftly rejected because it doesn’t fit their peaceful narrative. Their volume and presence in history is still troubling! This material is thrown out and so easily dismissed as “later fabrications to discredit Islam by early hypocrites of the faith, and early historians”.
