@@ -35,10 +35,10 @@ This material is thrown out and so easily dismissed as later fabrications to dis
 The majority of Muslims do not toss out all of this material the way we and Ahmadi Muslims would like them to. As such, the Islam of the masses still has latent, dangerous ideas floating out there that are the antithesis of peace.
 
 ### Reform vs. Renaissance 
-It should be noted that Ahmadi Muslims (as far as I have seen) do not refer to themselves as reformers of Islam. Their take is that Islam is the perfect faith, but that it was prophesied in the Prophet's time that Islam would become a mess until the Mahdi and Messiah came to revive its true teachings.
+It should be noted that Ahmadi Muslims (as far as I have seen) do not refer to themselves as _reformers_ of Islam. Their take is that Islam is the perfect faith, but that it was prophesied in the Prophet's time that Islam would become a mess until the Mahdi and Messiah came to revive its true teachings.
 
 So, you will not get Ahmadis to challenge verses of the Qur'an. Instead, they will seek to normalize an interpretation that supports a superior ethical voice than the simpler reading espoused by many of their co-coreligionists. 
 
-Ahmadi Muslims prefer to view their movement as the _renaissance_ of Islam. As such, they are in fact, more limited in the sort of break-out thinking many non-Muslims are looking to the Muslim world for. 
+Ahmadi Muslims prefer to view their movement as the _renaissance_ of Islam. As such, they are in fact, more limited in the sort of _break-out_ thinking that many non-Muslims are looking for the Muslim world to produce. 
 
 For that kind of ground-up, fresh restart, you really have to look to groups like the [Muslim Reform Movement](http://reasononfaith.github.io/2016/03/29/the-mrm-and-the-true-islam-campaigns.html) instead.
