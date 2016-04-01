@@ -31,7 +31,7 @@ given an _ex post facto_ embellished hypothetical context that "historians must 
 
 The volume and presence of this material from history is troubling. 
 
-This material is thrown out and so easily dismissed as later fabrications to discredit Islam by early hypocrites of the faith, and early historians.
+This material is thrown out and so easily dismissed with sentiments to the effect of, "These are later fabrications to discredit Islam by early hypocrites of the faith, and early historians."
 
 The majority of Muslims do not toss out all of this material the way we and Ahmadi Muslims would like them to. As such, the Islam of the masses still has latent, dangerous ideas floating out there that are the antithesis of peace.
 
