@@ -12,7 +12,7 @@ I completely believe that Ahmadi Muslims would never tolerate violence or terror
 
 Being a former Ahmadi Muslim, I can state this with confidence. This is why I support Ahmadi positions so strongly _on this particular slice of this particular topic_.
 
-###Issue 2
+### Issue 2
 On issues of history, this is where what I and many feel are revisionism, *is a dangerous obfuscation* of the mere presence of mountains of troubling material (popular and early biographies of the Prophet, _sahih_ hadith, etc.). This material is swiftly rejected because it doesn’t fit their peaceful narrative. Their volume and presence in history is still troubling! This material is thrown out and so easily dismissed as “later fabrications to discredit Islam by early hypocrites of the faith, and early historians”.
 
 The majority of Muslims do not toss out all of this material the way we and Ahmadi Muslims would like them to. As such, the Islam of the masses still has latent, dangerous ideas floating out there that are the antithesis of peace.
