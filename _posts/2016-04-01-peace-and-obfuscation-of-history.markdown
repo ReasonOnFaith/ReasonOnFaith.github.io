@@ -40,6 +40,8 @@ It should be noted that Ahmadi Muslims (as far as I have seen) do not refer to t
 
 So, you will not get Ahmadis to challenge verses of the Qur'an. Instead, they will seek to normalize an interpretation that supports a superior ethical voice than the simpler reading espoused by many of their coreligionists. 
 
-Ahmadi Muslims prefer to view their movement as the _renaissance_ of Islam. As such, they are in fact, more limited in the sort of _break-out_ thinking that many non-Muslims are looking for the Muslim world to produce. 
+Ahmadi Muslims prefer to view their movement as the _renaissance_ of Islam. As such, their ability to depart from the Qur'an is limited. They do not represent the sort of _break-out_ thinking that many non-Muslims are yearning for the Muslim world to produce. 
+
+Case in point: Ahmadiyya Islam does not have a place for gays in their theology, except to privately advise gays to deny themselves real love and keep their sexuality to themselves. You won't see Ahmadi Muslim spokespersons eager to address this topic. It'll get dodged and sidestepped until the two-minute news clip clock is run down to zero.
 
 For that kind of ground-up, fresh restart, you really have to look to groups like the [Muslim Reform Movement](http://reasononfaith.github.io/2016/03/29/the-mrm-and-the-true-islam-campaigns.html) instead.
