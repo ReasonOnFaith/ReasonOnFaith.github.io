@@ -24,4 +24,3 @@ If this cannot be established as an agreed upon common ground (everyone free to 
 Though I’m not sure how one would argue against this suggested progression. Dr. Bill Warner has run a lot of statics on these subjects: [https://www.politicalislam.com/trilogy-project/statistical-islam/](https://www.politicalislam.com/trilogy-project/statistical-islam/).
 
 Incidentally, any Ahmadi Muslim rebuttals of the statistical work of Dr. Bill Warner?
-
