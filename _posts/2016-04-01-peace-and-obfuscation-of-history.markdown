@@ -5,19 +5,32 @@ layout: post
 ---
 In this [tweet](https://twitter.com/avneet_paul/status/715914253622976512), [Avneet Paul](https://twitter.com/avneet_paul) makes an important point with an article link covering many topics, of which one in particular, was of interest to me for this post. 
 
-That topic is promoting peace (admirable and welcome) while insisting that the reams of historical material to the counter are not part of "true" Islam.
+That topic is the promotion of peace (obviously admirable and welcome) versus the Ahmadi's insistence that the reams of historical material to the counter, are not part of "true" Islam.
 
-I agree. The dichotomy for Ahmadi Muslims re: peace is (1) action taken today vs. (2) their take on historical events.
+I agree with Avneet that these nuances are important. 
+
+The dichotomy for Ahmadi Muslims regarding peace comes down to: 
+
+1. Action taken today 
+2. Ahmadi Muslims take on historical events
 
 ### Issue 1: Ahmadis and Peace Today
 I completely believe that Ahmadi Muslims would never tolerate violence or terrorism. Their rejection of this is proven (long history of non-violence, clear teachings in their own interpretations of the faith, open door policy at mosques, no fatwas for death, etc.). 
 
 Being a former Ahmadi Muslim, I can state this with confidence. This is why I support Ahmadi positions so strongly _on this particular slice of this particular topic_.
 
-### Issue 2: Ahmadis and a Selective Reading of History
-On issues of history, this is where what I and many feel are revisionism, *is a dangerous obfuscation* of the mere presence of mountains of troubling material (popular and early biographies of the Prophet, _sahih_ hadith, etc.). 
+This point is safely, a non-issue.
 
-This material is swiftly rejected because it doesn’t fit their peaceful narrative. Their volume and presence in history is still troubling! This material is thrown out and so easily dismissed as “later fabrications to discredit Islam by early hypocrites of the faith, and early historians”.
+### Issue 2: Ahmadis and a Selective Reading of History
+On issues of history however, I and many others feel that the Ahmadi viewpoint amounts to a historical reconstruction. And if true, that  *would be a dangerous obfuscation* of mountains of troubling material (popular and early biographies of the Prophet, _sahih_ hadith, etc.). 
+
+This historical material is swiftly rejected by Ahmadis, because it doesn’t fit their peaceful narrative. 
+
+Their starting point is that Muhammad was a peaceful man, and anything that paints a different picture, must be tossed out as a fabrication, or given an embellished hypothetical context that we have no historical record of.
+
+The volume and presence of this material from history is still troubling. 
+
+This material is thrown out and so easily dismissed as later fabrications to discredit Islam by early hypocrites of the faith, and early historians.
 
 The majority of Muslims do not toss out all of this material the way we and Ahmadi Muslims would like them to. As such, the Islam of the masses still has latent, dangerous ideas floating out there that are the antithesis of peace.
 
