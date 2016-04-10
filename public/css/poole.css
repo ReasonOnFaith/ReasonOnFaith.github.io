@@ -128,11 +128,13 @@ body div.post {
 
 body div.post a {
   text-decoration: none;
+  color: black;
   border-bottom: 1px black dotted;
 }
 
 body div.post a:hover {
   text-decoration: none;
+	color: #1c7fc5;
   border-bottom: 1px blue dotted;
 }
 
