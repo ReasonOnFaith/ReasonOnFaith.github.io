@@ -112,9 +112,9 @@ h4, h5, h6 {
 /* Body text */
 
 body div.post {
-	font-size: 1.20em;
+	font-size: 1.15em;
 	font-family:"freight-text-pro",serif;
-	line-height:150%;
+	line-height:160%;
 }
 
 p {
