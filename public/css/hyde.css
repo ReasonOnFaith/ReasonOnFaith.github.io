@@ -79,14 +79,16 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
+  margin-bottom: 0;
   font-family: "nimbus-sans-condensed", sans-serif;
   font-size: 2.0em;
   font-weight: 400;
 }
 
-.sidebar-subtitle {
+.sidebar-about h2 {
   color: #ddd;
   margin-top: 0;
+  margin-bottom: 2em;
   font-family: "nimbus-sans-condensed", sans-serif;
   font-size: 1.25em;
   font-weight: 300;
