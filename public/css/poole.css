@@ -417,6 +417,8 @@ tbody tr:nth-child(odd) th {
   display: block;
   padding: 1rem;
   border: 1px solid #eee;
+  text-transform: uppercase;
+  font-family: "nimbus-sans-condensed", sans-serif; 
 }
 .pagination-item:first-child {
   margin-bottom: -1px;
