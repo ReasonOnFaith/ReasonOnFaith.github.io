@@ -258,6 +258,7 @@ tbody tr:nth-child(odd) th {
 .lead {
   font-size: 1.0rem;
   font-weight: 300;
+ font-family:"PT Sans",Helvetica,Arial,sans-serif;
 }
 
 
