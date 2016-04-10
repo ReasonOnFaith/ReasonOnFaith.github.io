@@ -121,7 +121,8 @@ p.lead a,
 p.lead a,
 .sidebar-nav-item a:focus {
   text-decoration: none;
-  border-bottom: 1px #268bd2 dotted;
+  color: #fff;
+  border-bottom: 2px #fff dotted;
  }
  
 .sidebar-nav-item.active {
