@@ -120,7 +120,8 @@ h1.post-title {
 
 body div.post {
 	font-size: 1.10em;
-	/* font-family:"freight-text-pro",serif; */
+/*	font-family:"freight-text-pro",serif; */
+	font-family:"PT Sans",Helvetica,Arial,sans-serif;
 	line-height:160%;
 	color: #333;
 }
