@@ -108,7 +108,7 @@ html {
 
 .sidebar-nav-item a {
   text-decoration: none;
-  border-bottom: 1px black dotted;
+  border-bottom: 1px #dddddd dotted;
 }
 
 .sidebar-nav-item a:hover {
@@ -118,7 +118,7 @@ html {
 
 .sidebar-nav-item a:focus {
   text-decoration: none;
-  border-bottom: 1px blue dotted;
+  border-bottom: 1px #268bd2 dotted;
  }
  
 .sidebar-nav-item.active {
@@ -251,11 +251,11 @@ html {
 
 /* Blue */
 .theme-base-0d .sidebar {
-  background-color: #6a9fb5;
+  background-color: #268bd2;
 }
 .theme-base-0d .content a,
 .theme-base-0d .related-posts li a:hover {
-  color: #6a9fb5;
+  color: #268bd2;
 }
 
 /* Magenta */
