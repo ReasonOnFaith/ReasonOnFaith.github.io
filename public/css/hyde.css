@@ -100,7 +100,7 @@ html {
   list-style: none;
 	font-family:"source-sans-pro",sans-serif;
 	font-size: 1.2em;
-	text-transform: uppercase;
+	text-transform: none;
 }
 .sidebar-nav-item {
   display: block;
