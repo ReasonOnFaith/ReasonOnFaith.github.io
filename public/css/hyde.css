@@ -98,6 +98,7 @@ html {
 .sidebar-nav {
   padding-left: 0;
   list-style: none;
+    font-family: "nimbus-sans-condensed", sans-serif;
 }
 .sidebar-nav-item {
   display: block;
@@ -122,6 +123,7 @@ a.sidebar-nav-item:focus {
     right:  1rem;
     bottom: 1rem;
     left:   1rem;
+        font-family: "nimbus-sans-condensed", sans-serif;
   }
 }
 
