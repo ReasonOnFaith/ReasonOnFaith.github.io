@@ -92,6 +92,7 @@ html {
   font-family: "nimbus-sans-condensed", sans-serif;
   font-size: 1.25em;
   font-weight: 300;
+  text-transform: none;
 }
 
 /* Sidebar nav */
