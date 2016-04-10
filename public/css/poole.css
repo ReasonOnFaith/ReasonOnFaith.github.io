@@ -76,6 +76,14 @@ a:focus {
   text-decoration: underline;
 }
 
+/* Text */
+h1,h2,h3,h4,body {
+	text-rendering:optimizeLegibility;
+	word-wrap:break-word;
+	-moz-osx-font-smoothing:grayscale;
+	-webkit-font-smoothing:antialiased;
+}
+
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
@@ -102,6 +110,11 @@ h4, h5, h6 {
 }
 
 /* Body text */
+
+body {
+	font-family:"freight-text-pro",serif;
+}
+
 p {
   margin-top: 0;
   margin-bottom: 1rem;
