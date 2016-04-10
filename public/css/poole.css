@@ -117,9 +117,6 @@ h1.post-title {
   font-weight: 500;
 }
 
-body div.post h1.post-title a {
-  text-decoration:none;
-}
 
 /* Body text */
 
@@ -141,6 +138,10 @@ body div.post a:hover {
   text-decoration: none;
 	color: #1c7fc5;
   border-bottom: 1px blue dotted;
+}
+
+body div.post h1.post-title a {
+  text-decoration:none;
 }
 
 
