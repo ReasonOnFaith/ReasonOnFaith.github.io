@@ -114,7 +114,7 @@ h4, h5, h6 {
 body div.post {
 	font-size: 1.20em;
 	font-family:"freight-text-pro",serif;
-	line-height: 1.25em;
+	line-height:150%;
 }
 
 p {
