@@ -84,6 +84,14 @@ html {
   font-weight: 400;
 }
 
+.sidebar-subtitle {
+  color: #ddd;
+  margin-top: 0;
+  font-family: "nimbus-sans-condensed", sans-serif;
+  font-size: 1.25em;
+  font-weight: 300;
+}
+
 /* Sidebar nav */
 .sidebar-nav {
   padding-left: 0;
