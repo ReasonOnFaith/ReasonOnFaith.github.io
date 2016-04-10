@@ -106,16 +106,19 @@ html {
   display: block;
 }
 
+p.lead a,
 .sidebar-nav-item a {
   text-decoration: none;
   border-bottom: 1px #dddddd dotted;
 }
 
+p.lead a,
 .sidebar-nav-item a:hover {
   text-decoration: none;
-  border-bottom: 1px black dotted;
+  border-bottom: 1px #fff dotted;
 }
 
+p.lead a,
 .sidebar-nav-item a:focus {
   text-decoration: none;
   border-bottom: 1px #268bd2 dotted;
