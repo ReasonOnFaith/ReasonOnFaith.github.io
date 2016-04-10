@@ -92,6 +92,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #313131;
   font-family: "nimbus-sans-condensed", sans-serif;
   text-rendering: optimizeLegibility;
+  text-transform:uppercase;
 }
 h1 {
   font-size: 2.25rem;
@@ -112,7 +113,7 @@ h4, h5, h6 {
 /* Body text */
 
 body div.post {
-	font-size: 1.15em;
+	font-size: 1.10em;
 	font-family:"freight-text-pro",serif;
 	line-height:160%;
 }
