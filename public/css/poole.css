@@ -90,7 +90,8 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 300;
   line-height: 1.25;
   color: #313131;
-  font-family: "nimbus-sans-condensed", sans-serif;
+  /*font-family: "nimbus-sans-condensed", sans-serif; */
+  	font-family:"source-sans-pro",sans-serif;
   text-rendering: optimizeLegibility;
   text-transform:uppercase;
 }
@@ -335,7 +336,7 @@ tbody tr:nth-child(odd) th {
 .page-title,
 .post-title {
   margin-top: 0;
-  font-family: "nimbus-sans-condensed", sans-serif;
+  /*font-family: "nimbus-sans-condensed", sans-serif; */
 }
 
 /* Meta data line below post title */
