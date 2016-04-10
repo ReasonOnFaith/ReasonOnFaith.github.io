@@ -99,15 +99,23 @@ html {
   padding-left: 0;
   list-style: none;
 	font-family:"source-sans-pro",sans-serif;
-	font-size: 1.5em;
+	font-size: 1.4em;
+	text-transform: uppercase;
 }
 .sidebar-nav-item {
   display: block;
 }
-a.sidebar-nav-item:hover,
-a.sidebar-nav-item:focus {
-  text-decoration: underline;
+
+a.sidebar-nav-item:hover {
+  text-decoration: none;
+  border-bottom: 1px black dotted;
 }
+
+a.sidebar-nav-item:focus {
+  text-decoration: none;
+  border-bottom: 1px blue dotted;
+ }
+ 
 .sidebar-nav-item.active {
   font-weight: bold;
 }
