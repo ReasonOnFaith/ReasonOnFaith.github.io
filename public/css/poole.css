@@ -94,6 +94,7 @@ h1, h2, h3, h4, h5, h6 {
   	font-family:"source-sans-pro",sans-serif;
   text-rendering: optimizeLegibility;
   text-transform:uppercase;
+  text-decoration:none;
 }
 h1 {
   font-size: 2.0rem;
