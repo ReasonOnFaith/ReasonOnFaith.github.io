@@ -141,7 +141,7 @@ body div.post a:hover {
 }
 
 body div.post h1.post-title a {
-  text-decoration:none;
+  border-bottom: none;
 }
 
 
