@@ -117,7 +117,7 @@ h1.post-title {
   font-weight: 500;
 }
 
-h1.post-title a {
+body div.post h1.post-title a {
   text-decoration:none;
 }
 
