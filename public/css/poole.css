@@ -126,6 +126,17 @@ body div.post {
 	color: #333;
 }
 
+body div.post a {
+  text-decoration: none;
+  border-bottom: 1px black dotted;
+}
+
+body div.post a:hover {
+  text-decoration: none;
+  border-bottom: 1px blue dotted;
+}
+
+
 p {
   margin-top: 0;
   margin-bottom: 1rem;
