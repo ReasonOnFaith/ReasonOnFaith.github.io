@@ -1,0 +1,482 @@
+/* --------------------------------------------------
+	Custom CSS Content Add-on for theme: Minimum Pro
+*/ --------------------------------------------------
+
+/* --- Common Reading Text Styling --- */
+
+h1,h2,h3,h4,body {
+	text-rendering:optimizeLegibility;
+	word-wrap:break-word;
+	-moz-osx-font-smoothing:grayscale;
+	-webkit-font-smoothing:antialiased;
+}
+
+h1,h2,h3,h4 {
+	font-family:"nimbus-sans-condensed",sans-serif;
+}
+
+body {
+	font-family:"freight-text-pro",serif;
+}
+
+
+/* --- Specifics --- */
+
+/* This makes the title background near black. */
+.site-header {
+	background-color:#111;
+}
+
+/* This makes the footer background near black. */
+.site-footer {
+	background-color:#111;
+}
+
+/* This trims the title background space above and below from the theme's default. */
+.site-header .title-area {
+	padding-top:.75em;
+	padding-bottom:.75em;
+}
+
+/* This targets the site title when viewing a particular post. */
+p.site-title a {
+	font-variant:small-caps;
+	font-family:"nimbus-sans-condensed",sans-serif;
+	font-size:1.25em;
+	color:#fff;
+}
+
+/* This targets the site title when viewing the home page. */
+h1.site-title a {
+	font-variant:small-caps;
+	font-family:"nimbus-sans-condensed",sans-serif;
+	font-size:1.25em;
+	color:#fff;
+}
+
+/* This targets the site's tagline, generally found under the title. */
+.site-tagline-left p.site-description {
+	font-variant:lowercase;
+	font-family:"nimbus-sans-condensed",sans-serif;
+	font-size:1.5em;
+	color:#767676;
+}
+
+/* This adjusts the shaded region above and below the site's tagline (below the site title). */
+div.site-tagline {
+	padding-top:.65em;
+	padding-bottom:.5em;
+}
+
+/* This sizes the post's title when on a post's page. */
+h1.entry-title {
+	text-transform:uppercase;
+	font-size:2.25em;
+}
+
+/* This sizes the post's title when on the home page or a search results page. */
+h2.entry-title {
+	text-transform:uppercase;
+	font-size:2.25em;
+}
+
+h2,h3 {
+	text-transform:uppercase;
+}
+
+h2 {
+	font-size:1.75em;
+}
+
+h3 {
+	font-size:1.5em;
+}
+
+.entry-content h3 {
+	margin-top: 1.2em;
+	margin-bottom: 0.5em;
+	font-size:1.15em;
+}
+
+.entry-content h4 {
+	margin-top: 1.2em;
+	margin-bottom: 0.5em;
+	font-size:1.05em;
+}
+
+
+.widget-title.widgettitle {
+	font-family:"nimbus-sans-condensed",sans-serif;
+	font-size:1.25em;
+	margin-bottom:.45em;
+}
+
+/* This reflects the main body content (text) */
+.entry-content {
+	color:rgba(0,0,0,0.8);
+	font-size:1.35em;
+	font-weight:400;
+	line-height:150%;
+}
+
+/* This styles the body text in widgets in the sidebar */
+div.textwidget {
+	color:rgba(0,0,0,0.8);
+	font-size:1.15em;
+	font-weight:400;
+	line-height:120%;
+}
+
+/* Citing Articles and Callout Vignettes */
+article .entry-format {
+	display:none;
+}
+
+
+form.search-form input {
+	font-family:"source-sans-pro",sans-serif;
+	font-size:1.2em;
+	font-weight:400;
+}
+
+
+p.entry-meta {
+	color:#222222;
+	font-family:"nimbus-sans-condensed",sans-serif;
+	font-size:1em;
+	font-weight:400;
+	line-height:120%;
+}
+
+p.entry-meta span.entry-tags {
+
+}
+
+
+.entry-tags a {
+	font-family:"nimbus-sans-condensed",sans-serif;
+	font-size:1.0em;
+	font-weight:400;
+	color:#577da4;
+	padding-left:.2em;
+	padding-right:.2em;
+	padding-top: 0.2em;
+	padding-bottom: 0.2em;				
+
+}
+
+.entry-tags a:hover {
+	font-family:"nimbus-sans-condensed",sans-serif;
+	font-size:1.0em;
+	font-weight:400;
+	color: #1c7fc5; /* The site's preferred and themed blue */
+	background-color:#EFEFEF;
+	padding-left:.2em;
+	padding-right:.2em;
+	border-radius:.2em;
+	padding-top: 0.2em;
+	padding-bottom: 0.2em;								
+}
+
+a:hover {
+	color: #1c7fc5; /* The site's preferred and themed blue */
+}
+
+.widget a:hover {
+	color: #1c7fc5; /* The site's preferred and themed blue */
+}
+
+img {
+	border-radius:.2em;
+}
+
+sup {
+	padding-left: 0.2em;
+}
+
+sup a {
+	text-decoration: none;
+}
+
+blockquote {
+		text-rendering:optimizeLegibility;
+	word-wrap:break-word;
+	-moz-osx-font-smoothing:grayscale;
+	-webkit-font-smoothing:antialiased;
+	font-family:"freight-text-pro",serif;
+	color: #444444;
+	font-weight: 600;
+}
+
+.qtip-content {
+	font-family:"source-sans-pro",sans-serif;
+	font-size:1.0em;
+}
+
+ol.easy-footnotes-wrapper {
+	font-family:"source-sans-pro",sans-serif;
+}
+
+ol.easy-footnotes-wrapper::before {
+  content: "FOOTNOTES";
+	font-family:"nimbus-sans-condensed",sans-serif;
+  font-weight: normal;
+  font-size:1.0em;
+  margin-left: -40px;
+}
+
+li.easy-footnote-single {
+  font-size:0.75em;
+  line-height:100%;
+}
+
+/* 
+	------------------------------------------------------------ 
+	Content Boxes
+	------------------------------------------------------------ 
+*/
+.content-box-blue,
+.content-box-gray,
+.content-box-green,
+.content-box-purple,
+.content-box-red,
+.content-box-yellow,
+.vignette {
+	margin-top:0.7em;
+	margin-bottom: 0.9em;
+	overflow:hidden;
+	padding:20px;
+	padding-bottom: 0px;
+	border-radius:.25em;
+	font-size: 0.85em;
+	font-family:"source-sans-pro",serif;
+	line-height:150%;
+}
+
+.content-box-blue,
+.content-box-gray,
+.content-box-green,
+.content-box-purple,
+.content-box-red,
+.content-box-yellow,
+.vignette p {
+	margin-bottom: 0.65em;
+	}
+
+.content-box-blue {
+	background-color:#d8ecf7;
+	border:1px solid #afcde3;
+}
+
+.content-box-gray, .vignette {
+	background-color:#efefef;
+	border:1px solid #bdbdbd;
+}
+
+.content-box-green {
+	background-color:#d9edc2;
+	border:1px solid #b2ce96;
+}
+
+.content-box-purple {
+	background-color:#e2e2f9;
+	border:1px solid #bebde9;
+}
+
+.content-box-red {
+	background-color:#f9dbdb;
+	border:1px solid #e9b3b3;
+}
+
+.content-box-yellow {
+	background-color:#fef5c4;
+	border:1px solid #fadf98;
+}
+
+/* 
+	------------------------------------------------------------ 
+	Article Content Styles
+	------------------------------------------------------------ 
+*/
+
+.rof-keyword-techie {
+	font-family:monospace;
+	font-size:0.9em;
+	font-weight:400;
+	color: #1c7fc5; /* The site's preferred and themed blue */
+	white-space: nowrap;
+}
+
+.rof-keyword {
+	font-size:0.92em;
+	font-weight:300;
+/* 	color: #1c7fc5; /* The site's preferred and themed blue */
+	white-space: nowrap;
+	font-family:"Avenir-Next",sans-serif;
+}
+
+
+/*
+.vignette {
+	border:1px solid #1c7fc5;
+	border-radius:.2em;
+	background-color:#efefef;
+	padding:1em;
+	padding-bottom:0;
+	margin-top: 0.75em;
+	margin-bottom:1.25em;
+	color:rgba(0,0,0,0.8);
+	font-family:"source-sans-pro",sans-serif;
+	font-size:1.2em;
+	font-weight:500;
+	line-height:125%;
+}
+*/
+
+p.formal-quote {
+	border-left:3px solid #1c7fc5;
+	background-color:#efefef;
+	line-height:150%;
+	color:rgba(0,0,0,0.8);
+	font-size:1em;
+	font-weight:400;
+	line-height:120%;
+	padding:0.5em .5em .5em 1em;
+	margin-top: 0.75em;
+}
+
+p.informal-quote {	
+	border-left:1px dotted #1c7fc5;
+	background-color:rgba(245,245,245,0.6);
+	line-height:150%;
+		letter-spacing: 0.0em;
+	color:rgba(0,0,0,0.8);
+	font-size:0.95em;
+	font-weight:400;
+	    font-style: normal;
+		font-family:"freight-text-pro",serif;
+	line-height:120%;
+	padding:0.5em .5em .5em 1em;
+	margin-top: 0.75em;
+}
+
+p.informal-idea {	
+    font-family: "kremlin-pro-web-semi-exp", serif;
+    font-style: normal;
+	line-height:150%;
+	letter-spacing: 0.0825em;
+	color: #444444;
+	font-size:1.05em;
+	font-weight:400;
+	line-height:150%;
+	margin-top: 0.75em;
+	padding-left: 2em;
+	padding-right: 1.0em;
+}
+
+
+p.quote-citation {
+	margin-top:-1.25em;
+	margin-left:.2em;
+	font-size:0.8em;
+	font-weight:400;
+	font-family:"nimbus-sans-condensed",sans-serif;
+	text-align: right;
+}
+
+p.quote-citation a {
+	color: black; /*#1c7fc5;*/
+	text-decoration:none;
+}
+
+p.quote-citation a:hover {
+	text-decoration: none;
+	color: #1c7fc5;
+	}
+
+.scripture, 
+.quranic-verse, 
+.quranic-verse-arabic, 
+.religious-commentary,
+.hadith, 
+.hadith-arabic, 
+.biography, 
+.bible-verse {
+	border-left:2px solid orange;
+	background-color:#efefef;
+	line-height:150%;
+	color:rgba(0,0,0,0.8);
+	font-size:0.95em;
+	font-weight:400;
+	line-height:160%;
+	padding:0.5em .5em .5em 1em;
+	margin-top: 0.75em;
+}
+
+.quranic-verse {
+	border-left:2px solid red;
+}
+
+.scripture-ref, .version-ref {
+		font-family:"nimbus-sans-condensed",sans-serif;
+	font-size:1.0em;
+	font-weight:500;
+	text-align: right;
+}
+
+.scripture-ref {
+	padding-top: 0.45em;
+	color: black;
+}
+
+.scripture-ref a {
+	font-weight:500;
+	target-new: tab;
+}
+
+.version-ref {
+	font-size:0.9em;
+	font-weight:400;
+}
+
+.quranic-verse-arabic {
+		border-left:2px solid red;
+}
+
+.arabic-inline {
+/* 	Nothing to do; it renders well into regular body text. */
+}
+
+.hadith-arabic {
+		border-left:2px solid pink;
+}
+
+.hadith {
+		border-left:2px solid pink;
+}
+
+.narrator {
+		font-family:"source-sans-pro",sans-serif;
+	font-size: 1.1em;
+	font-weight: 400;
+}
+
+.biography {
+	border-left:2px solid #fadf98;
+}
+
+.religious-commentary {
+	border-left:2px solid #bebde9;
+}
+
+.bible-verse {
+	border-left:2px solid brown;
+}
+
+.image-caption {
+/*    font-family:"source-sans-pro",sans-serif; */
+   font-family:"nimbus-sans-condensed",sans-serif;
+   font-size: 0.8em;
+   margin-top: -1.4em;
+}
+
