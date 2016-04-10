@@ -87,7 +87,7 @@ h1,h2,h3,h4,body,div,p {
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
-  font-weight: 300;
+  font-weight: 400;
   line-height: 1.25;
   color: #313131;
   /*font-family: "nimbus-sans-condensed", sans-serif; */
@@ -96,19 +96,19 @@ h1, h2, h3, h4, h5, h6 {
   text-transform:uppercase;
 }
 h1 {
-  font-size: 2.25rem;
+  font-size: 2.0rem;
 }
 h2 {
   margin-top: 1rem;
-  font-size: 1.75rem;
+  font-size: 1.5rem;
 }
 h3 {
   margin-top: 1.5rem;
-  font-size: 1.5rem;
+  font-size: 1.25rem;
 }
 h4, h5, h6 {
   margin-top: 1rem;
-  font-size: 1.25rem;
+  font-size: 1.0rem;
 }
 
 h1.post-title {
