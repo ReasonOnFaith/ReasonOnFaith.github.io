@@ -77,7 +77,7 @@ a:focus {
 }
 
 /* Text */
-h1,h2,h3,h4,body {
+h1,h2,h3,h4,body,div,p {
 	text-rendering:optimizeLegibility;
 	word-wrap:break-word;
 	-moz-osx-font-smoothing:grayscale;
@@ -111,7 +111,7 @@ h4, h5, h6 {
 
 /* Body text */
 
-body {
+body div.post {
 	font-family:"freight-text-pro",serif;
 }
 
