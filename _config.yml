@@ -1,5 +1,6 @@
 excerpt_separator: ""
-pygments: true
+#pygments: true
+highlighter: rouge
 markdown: kramdown
 url: http://ReasonOnFaith.github.io
 title: "REASON ON FAITH"
