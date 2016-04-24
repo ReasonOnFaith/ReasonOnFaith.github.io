@@ -3,7 +3,7 @@ published: true
 title: The MRM and the True Islam Campaigns
 layout: post
 ---
-The Muslim Reform Movement (MRM) [Declaration](https://www.change.org/p/muslims-and-neighbors-we-support-the-muslim-reform-movement) from December 2015 and the [Ahmadi](https://www.alislam.org/) Muslim's ['True Islam'](http://trueislam.com/) campaign that followed a few weeks later, both aim to put some definitive statements out there about how a modern and peaceful Islam is not an oxymoron.
+The Muslim Reform Movement (MRM) [Declaration](https://www.change.org/p/muslims-and-neighbors-we-support-the-muslim-reform-movement) from December 2015 and the [Ahmadiyya](https://www.alislam.org/) Muslims' ['True Islam'](http://trueislam.com/) campaign that followed a few weeks later, both aim to put some definitive statements out there about how a modern and peaceful Islam is not an oxymoron.
 
 ### The Muslim Reform Movement
 
