@@ -1,6 +1,6 @@
 ---
 published: true
-title: Morality under Humanism vs. Islam
+title: Should Humanism Replace Religion: Ahmadiyya Muslim Presentation
 layout: post
 ---
 Ahmadi Muslim speaker [Tahir Nasser](https://twitter.com/TahirNasser) recently gave a [presentation](https://www.youtube.com/watch?v=dqsgKpZb1hM) (as part of a debate) on Morality, wherein he critiqued the Humanist position as admirable, but that which falls short.
@@ -36,4 +36,3 @@ Speaking of which, I'd be keen to see Ahmadiyya Muslims tackle [Qualia Soup](htt
 * Part 1: [Good without Gods](http://www.youtube.com/watch?v=T7xt5LtgsxQ&feature=plcp)
 * Part 2: [Not-so-good books](http://www.youtube.com/watch?v=hSS-88ShJfo&feature=plcp)
 * Part 3: [Of objectivity and oughtness](http://www.youtube.com/watch?v=sN-yLH4bXAI&feature=plcp)
-
