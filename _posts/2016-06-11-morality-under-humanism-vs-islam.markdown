@@ -1,6 +1,6 @@
 ---
 published: true
-title: Should Humanism Replace Religion: Ahmadiyya Muslim Presentation
+title: Should Humanism Replace Religion?
 layout: post
 ---
 Ahmadi Muslim speaker [Tahir Nasser](https://twitter.com/TahirNasser) recently gave a [presentation](https://www.youtube.com/watch?v=dqsgKpZb1hM) (as part of a debate) on Morality, wherein he critiqued the Humanist position as admirable, but that which falls short.
