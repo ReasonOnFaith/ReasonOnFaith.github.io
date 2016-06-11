@@ -25,13 +25,13 @@ Even if we are in the philosophical infancy of our species' ability to derive an
 
 Put another way, just because the presenter makes the case that objective morality would be nice and give us an external reference point for the purpose of life, that does not make religion true. At most, it makes it a _desirable_ construct, all else being equal and provided religion was _actually_ true.
 
-In terms of promotion, I understand the marketing reasons for the title, "Muslim Speaker Dismantles Humanism in front of Atheist Crowd". However, without this video clip sharing anything but the Muslim speaker's own presentation, it does seem premature; I would like to see the other side of the debate before I'd claim who "dismantled" whom. 
+In terms of promotion, I understand the marketing reasons for the title, _"Muslim Speaker Dismantles Humanism in front of Atheist Crowd"._ However, without this video clip sharing anything but the Muslim speaker's own presentation, it does seem premature. I would have liked to see the other side of the debate before I'd claim who "dismantled" whom. 
 
-I for example, cannot tell if the Muslim speaker dismantled straw men positions, because I couldn't view the entire debate. To be fair, a full debate [link](https://www.youtube.com/watch?v=I9jjG) was given in the description, so the intention was not to hide the event in its entirety. However, as at June 10, 2016, that link does not work.
+I for example, cannot tell if the Muslim speaker dismantled straw men positions, because I couldn't view the entire debate. To be fair, a full debate [link](https://www.youtube.com/watch?v=I9jjG) was given in the description. I do not believe the intention was to hide the video of the event in its entirety. However, as at June 10, 2016, the link to the full video does not work.
 
 Finally, I believe the most interesting discussions we can have on these topics arise from when we address the _best_ arguments out there in a systematic way, even if our response is, "I don't know".
 
-Speaking of which, I'd be keen to see Ahmadiyya Muslims tackle [Qualia Soup](https://www.youtube.com/user/QualiaSoup/videos)'s three-part series on Morality. Here's the [playlist](https://www.youtube.com/playlist?list=PL0EFCB22DFCD4F2E7), and individual videos are linked below.
+Speaking of which, I'd be keen to see Ahmadi Muslims tackle [Qualia Soup](https://www.youtube.com/user/QualiaSoup/videos)'s three-part series on Morality. Here's the [playlist](https://www.youtube.com/playlist?list=PL0EFCB22DFCD4F2E7), and individual videos are linked below.
 
 * Part 1: [Good without Gods](http://www.youtube.com/watch?v=T7xt5LtgsxQ&feature=plcp)
 * Part 2: [Not-so-good books](http://www.youtube.com/watch?v=hSS-88ShJfo&feature=plcp)
