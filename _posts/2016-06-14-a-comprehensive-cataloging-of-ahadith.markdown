@@ -10,6 +10,9 @@ This post is a follow on to my twitter post about hadith that indicate [the kill
 
 As well as earlier tweets suggesting a proactive publication cataloging all six sacred books of hadith from an Ahmadiyya perspective, would be useful for the Jama’at itself and for those interested in studying the Jama'at's take on each specific hadith in the entire body of ahadith. This post expands on my [suggestion](https://twitter.com/ReasonOnFaith/status/742371626537365504) to those in the Jama'at interested in such scholarship.
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I would love to see the Ahmadiyya Muslim Community embark on a pro-active campaign of accepting/rejecting hadith from the Sacred Six books.</p>&mdash; Reason on Faith (@ReasonOnFaith) <a href="https://twitter.com/ReasonOnFaith/status/742371626537365504">June 13, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 In this particular case, I've read that these hadith are 'weak'. I do think non-Ahmadi Muslims of various inclination could make a case of these hadith not conflicting with the Qur’an by simply saying the Qur’an is silent on what to do with homosexuals. 
 
 The Qur’an has no statement saying, “Homosexuals don’t follow Allah’s law. Oh those of you who believe, know that it is not your duty to punish them in this world”, etc.
