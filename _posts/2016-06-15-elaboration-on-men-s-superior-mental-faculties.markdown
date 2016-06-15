@@ -1,6 +1,6 @@
 ---
 published: true
-title: Elaboration on Men's Superior Mental Faculties
+title: Elaboration on the Superior Mental Faculties of Men
 layout: post
 ---
 The following is my tweet-longer response to a [tweet-longer](http://www.twitlonger.com/show/n_1sopukc) message from user [@SearchIslam](https://twitter.com/SearchIslam).
