@@ -33,7 +33,7 @@ We then have a Sadr Lajna, [Ismat Mahmood](https://twitter.com/IsmatMahmood) jum
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/IsmatMahmood">@IsmatMahmood</a> Not contradictory. You can be more religiously observant but less interested in the minutia of theology. It&#39;s not a dig at you</p>&mdash; Reason on Faith (@ReasonOnFaith) <a href="https://twitter.com/ReasonOnFaith/status/742526477099487232">June 14, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Clearly, someone in her post didn't understand that you can be a religiously observant Ahmadi woman regardless of being equally disinterested in the theology most men are in the same Community.
+Clearly, someone in her position (local Jama'at president of a women's chapter) didn't understand that you can be a religiously observant Ahmadi woman and yet disinterested in the details of the theology. And this disinterest; this lack of digging into the details is true in my observation of both the men and the women in the Jama'at. I didn't explicitly exclude men in my tweet when I was responding to an accusation regarding women leaving in "droves".
 
 Remember, this all started because instead of addressing the _actual_ provocative Ahmadi Muslim Qur'anic commentary, Ahmadis were just itching to find some way to cry wolf, to cry foul and say anything to deflect from the misogynistic commentary text, and onto me personally.
 
