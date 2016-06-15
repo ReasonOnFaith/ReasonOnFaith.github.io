@@ -19,13 +19,13 @@ Re-read my tweet. "Most" does not mean "all". And if you think it does, you need
 
 If any of the Ahmadis cared to ask me, "Do you think only women haven't read such passages, or do you think men in the Jama'at are similarly disinclined to be that well read about our theology?" I would have responded with: _both genders!_
 
-And even when my words and intent are misunderstood, I CLARIFY that I believe _both_ genders_ -- the Jama'at folk in general -- are not very well read on their own theology, that clarification is not accepted by Ahmadis chiming in and retweeting the mis-characterization by other Ahmadis _after_ I have already clarified my intent.
+And even when my words and intent are misunderstood, I CLARIFY that I believe _both_ genders are not very well read on their own theology, that clarification is not accepted by Ahmadis chiming in and retweeting the mis-characterization by other Ahmadis even _after_ I have already clarified my intent.
 
-Is this the kind of humility Ahmadis are learning in the tarbiyaty programs? At their ijtemas? At juma'ah? It's disgraceful.
+Is this the kind of humility Ahmadis are learning in the tarbiyati programs? At their ijtemas? At juma'ah? It's disgraceful.
 
-The Ahmadi Muslims I know in person are far more polite than this lot who've been quick to try to misrepresent my words on Twitter. The truly mature and knowledgeable Ahmadis, of which I have met some on Twitter, don't behave these way. They are wise to understand the different between disrespecting people and challenging theological ideas. They welcome dialog and debate.
+The Ahmadi Muslims I know in person are far more polite than this lot who've been quick to try to misrepresent my words on Twitter. The truly mature and knowledgeable Ahmadis, of which I have met some on Twitter, don't behave this way. They are wise to understand the different between disrespecting people and challenging theological ideas. They welcome dialog and debate.
 
-We then have a Sadr Lajna, Ismat Mahmood jump into the fray with more mis-characterization:
+We then have a Sadr Lajna, [Ismat Mahmood](https://twitter.com/IsmatMahmood) jump into the fray with more mis-characterization:
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/ReasonOnFaith">@ReasonOnFaith</a> this statement is contradictory ..Think it through women or men are more religious or just which side you want to butter?</p>&mdash; Ismat Mahmood (@IsmatMahmood) <a href="https://twitter.com/IsmatMahmood/status/742509420186243072">June 14, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -35,21 +35,21 @@ We then have a Sadr Lajna, Ismat Mahmood jump into the fray with more mis-charac
 
 Clearly, someone in her post didn't understand that you can be religiously observant regardless of being equally disinterested in the theology as most men in the Community.
 
-Remember, this all started because instead of addressing the actual provocative Ahmadi Muslim Qur'anic commentary, Ahmadis were just itching to find some way to cry wolf, to cry foul and say anything to deflect from the misogynistic commentary text, and onto me personally.
+Remember, this all started because instead of addressing the _actual_ provocative Ahmadi Muslim Qur'anic commentary, Ahmadis were just itching to find some way to cry wolf, to cry foul and say anything to deflect from the misogynistic commentary text, and onto me personally.
 
 So here's a thought exercise for Ahmadi Muslims to consider:
 
-If I ask the first 10 Lajna (adult women) I meet in the USA who consider themselves religious, what % would have read the passage I cited here and actually remember pondering it — the commentary that men have “superior mental faculties”? 
+If I ask the first 10 Lajna (adult women) I meet in the USA who consider themselves religious, what % would have read the passage I cited here and actually remember pondering it (the commentary that men have “superior mental faculties”)? 
 
 What % would I get if I asked the next 10 Khuddam (young adult men) the same question?
 
 In fact, you can do this exercise yourself with people who’ve not heard of this Twitter exchange or this blog post.
 
-My assertion is that BOTH numbers would be quite low -- less than 50% is my guess. 
+My assertion is that BOTH numbers would be quite low. Less than 50% is my guess. 
 
-For honest Ahmadis reading this, you know in your hearts that I have a point, especially if you're one of the rare few among your peers who bothers to read at this level.
+For honest Ahmadis reading this, you know in your hearts that I have a point, especially if you're one of the rare few among your peers who bothers to read and take an interest at this level. Do this exercise. You don't have to report back on Twitter. Just know in your own heart my generalization about people's theological interest and reading has merit in the real world, because it is what I have grown up observing. Perhaps you have a different experience, but I do feel that my experience here is likely very reflective. And I'm entitled to state my general observations about a Community I had been active in for decades.
 
-When there are hadith explaining the “deficiency” in women’s intelligence, isn’t it convenient that you deflect onto me instead of looking at the mysogny in your own commentaries that seem to be inspired by them?
+For those haters: When there are hadith explaining the “deficiency” in women’s intelligence, isn’t it convenient that you deflect onto me instead of looking at the misogyny in your own commentaries that seem to be inspired by them?
 
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">There are a few hadith like this one, which you can trace back as plausible influences for the these attitudes. <a href="https://t.co/MKS5emvjsG">pic.twitter.com/MKS5emvjsG</a></p>&mdash; Reason on Faith (@ReasonOnFaith) <a href="https://twitter.com/ReasonOnFaith/status/742668132012195842">June 14, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
