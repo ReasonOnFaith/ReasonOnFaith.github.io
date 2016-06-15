@@ -13,7 +13,7 @@ To this, one Ahmadi claimed that Ahmadi women knew about this passage, and if th
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">.<a href="https://twitter.com/islam_et_media">@islam_et_media</a> No, most haven’t read much and/or are socially under pressure to conform. I’ll help raise awareness, though ;)</p>&mdash; Reason on Faith (@ReasonOnFaith) <a href="https://twitter.com/ReasonOnFaith/status/742468107520839680">June 13, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-You can see here that first, the Ahmadi user @islam_et_media made a generalization about Ahmadi women understanding the passage. I responded that most probably have not read it. 
+You can see here that first, the Ahmadi user [Bureau Francophone](https://twitter.com/islam_et_media) made a generalization about Ahmadi women understanding the passage. I responded that most probably have not read it. 
 
 Re-read my tweet. "Most" does not mean "all". And if you think it does, you need to go back to English class. In short 140 character tweets, especially ones responded to quickly, we're not writing legal documents.
 
