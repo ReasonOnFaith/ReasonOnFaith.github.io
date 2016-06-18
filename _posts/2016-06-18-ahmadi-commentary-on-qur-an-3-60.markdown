@@ -14,7 +14,7 @@ The Ahmadi Muslim TV program, _Faith Matters_ explores this in [Program 77](http
 
 Indeed, it would be a good explanation except that the verse in the Qur’an does not itself present this qualifier attributed to it by the Ahmadi speaker, that the Christian concept of Adam is being referred to _only_.
 
-Verse [3:60](http://www.alislam.org/quran/tafseer/?page=141&region=EN) of the Qur’an (or 3:59 if you use mainstream Islamic numbering systems) is making a confident statement of fact with no capitulation present that this view of Adam is exclusive to Christians.
+Verse [3:60](http://www.alislam.org/quran/tafseer/?page=141&region=EN) of the Qur’an (or 3:59 if you use mainstream Islamic numbering systems) is making a confident statement of fact with no capitulation present that this view of Adam is _exclusive_ to Christians.
 
 > Surely, the case of Jesus with Allah is like the case of Adam. He created him out of dust, then said to him, 'Be,' and he was.
 
