@@ -10,9 +10,7 @@ In the following tweet of mine, I conjectured that even the commentary of an Ahm
 
 A better explanation of this verse put forth by Ahmadi Muslims is that God is simply making an argument _against_ Christian claims of a divine Jesus, by saying that if Christians think Jesus is divine because he had no human father, than what of the Adam of the Bible who had no human mother _nor_ a human father? 
 
-The Ahmadi Muslim TV program, _Faith Matters_ explores this in [Program 77](https://youtu.be/B825iH4kqSU?t=4m40s).
-
-The linked video at time index 4:40 (for about a minute in length), covers this explanation. 
+The Ahmadi Muslim TV program, _Faith Matters_ explores this in [Program 77](https://youtu.be/B825iH4kqSU?t=4m40s), at time index 4:40 (for about a minute in length).
 
 Indeed, it would be a good explanation except that the verse in the Qur’an does not itself present this qualifier attributed to it by the Ahmadi speaker, that the Christian concept of Adam is being referred to _only_.
 
