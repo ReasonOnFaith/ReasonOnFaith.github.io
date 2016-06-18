@@ -12,8 +12,6 @@ A better explanation of this verse put forth by Ahmadi Muslims is that God is si
 
 The Ahmadi Muslim TV program, _Faith Matters_ explores this in [Program 77](https://youtu.be/B825iH4kqSU?t=4m40s).
 
-{% youtube oHg5SJYRHA0 %}
-
 The linked video at time index 4:40 (for about a minute in length), covers this explanation. 
 
 Indeed, it would be a good explanation except that the verse in the Qur’an does not itself present this qualifier attributed to it by the Ahmadi speaker, that the Christian concept of Adam is being referred to _only_.
